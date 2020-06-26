@@ -11,12 +11,14 @@ Our open letter was released on June 25, 2020. It was a public letter directed t
 
 You can follow our work on Twitter at [@DrsDefundPolice](https://twitter.com/DrsDefundPolice).
 
-We hosted our inaugural event on June 25, 2020:
+### Doctors for Defunding Police inaugural event:
 {% raw %}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zPjYWzyoJ28" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 {% endraw %}
 
-Places that have covered our initiative:
+
+
+### Doctors for Defunding Police in the media:
 
 - [The Toronto Star](https://www.thestar.com/opinion/contributors/2020/06/26/policing-is-a-public-health-crisis.html)
 - [Metro Morning](https://www.cbc.ca/listen/live-radio/1-39-metro-morning/clip/15784180-health-professionals-call-to-defund-police)
