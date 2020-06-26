@@ -7,7 +7,6 @@ tags: home
 
 # Policing is a public health crisis.
 
-<div style="text-align: justify">
 As a group of concerned physicians working in Toronto, we have come together to stand in solidarity with calls from Black and Indigenous communities to address systemic anti-Black and anti-Indigenous racism, defunding the police, and reallocating funds to support response systems backed by public health research. There have been far too many Black and Indigenous people who have been the victims of police brutality in our communities. We recognize that our healthcare system is complicit in systemic anti-Black and anti-Indigenous racism and often works in concert with police services, especially as it relates to mental health crises.
 
 As members of the medical community, we are gravely concerned about several recent cases of police brutality. These include the stories and lives of Regis Korchinski-Paquet, Ian Pryce, Andrew Loku, amongst many others. These deadly tragedies highlight concerns around police response to individuals in distress or experiencing mental health crises and the use of lethal force against Black and Indigenous people, including those from communities facing severe social and material deprivation due to structural violence including poverty and marginalization. When people are in crisis, we know that what they need is care, not confrontation with an armed officer. We know that the threat of violence exacerbates distress. Black Torontonians are 20 times more likely to be shot by police than white residents, according to the Ontario Human Rights Commission. We know that care should take the form of de-escalation, crisis counseling, and connection to resources. We know that no amount of reform will result in police officers having expertise in any of these areas.
@@ -29,7 +28,6 @@ b) the creation of non-police response teams trained in de-escalation and crisis
 It is clear that the police force, despite increasing yearly budgets, has not made significant impacts in the reduction of crime, and in many instances, has threatened public safety, especially for Black and Indigenous people. After multiple decades of failed attempts at police reform, tangible solutions need to centre the voices of residents in our communities. We can no longer choose to ignore the urgent need to defund the police to advance health equity for Black and Indigenous communities.
 
 We must do better. It is a matter of life and death.
-</div>
 
 #### To be added as a signatory to this letter, please complete [the form](https://docs.google.com/forms/d/e/1FAIpQLSdWdwT0jYWubq36FJ_GO9JTXfDgHyR8AMcOn2cBWiu4XyPU2g/viewform).
 
