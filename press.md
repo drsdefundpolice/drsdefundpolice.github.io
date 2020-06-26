@@ -22,6 +22,9 @@ The group is holding a panel event this evening to bring together the health com
 For media inquires:
 
 Semir Bulle, MD candidate
+
 Email: [Doctorsfordefundingpolice@gmail.com](mailto:doctorsfordefundingpolice@gmail.com)
+
 Twitter: [@DrsDefundPolice](https://twitter.com/DrsDefundPolice)
+
 Website: [www.doctorsfordefundingpolice.com](www.doctorsfordefundingpolice.com)
