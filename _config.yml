@@ -8,7 +8,7 @@ url:         "http://doctorsfordefundingpolice.com"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
- - contact.html
+ - media.md
 
 # Google services
 google_verification:

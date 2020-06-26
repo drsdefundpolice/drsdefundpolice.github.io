@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Doctors for Defunding Police
+title: About
 permalink: /about/
 tags: about
 ---
