@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
+title:       Doctors for Defunding Police
+email:       doctorsfordefundingpolice@gmail.com
+author:      DFDP Toronto Chapter
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://doctorsfordefundingpolice.com"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
