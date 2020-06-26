@@ -1,4 +1,6 @@
-# Pixyll
+# Doctors for Defunding Police
+
+This is a DFDP site, forked from the Pixyll project.
 
 [pixyll.com](http://www.pixyll.com)
 
