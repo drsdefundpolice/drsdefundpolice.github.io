@@ -11,6 +11,10 @@ Our open letter was released on June 25, 2020. It was a public letter directed t
 
 You can follow our work on Twitter at ([@DrsDefundPolice](https://twitter.com/DrsDefundPolice)).
 
+{% raw %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zPjYWzyoJ28" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% endraw %}
+
 [Watch a recording of our inaugural event that took place on Thursday, June 25th, 2020.](https://www.youtube.com/watch?v=zPjYWzyoJ28&feature=youtu.be)
 
 Places that have covered our initiative:
