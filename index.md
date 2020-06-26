@@ -5,7 +5,7 @@ permalink: /
 tags: home
 ---
 
-Policing is a public health crisis.
+# Policing is a public health crisis.
 
 As a group of concerned physicians working in Toronto, we have come together to stand in solidarity with calls from Black and Indigenous communities to address systemic anti-Black and anti-Indigenous racism, defunding the police, and reallocating funds to support response systems backed by public health research. There have been far too many Black and Indigenous people who have been the victims of police brutality in our communities. We recognize that our healthcare system is complicit in systemic anti-Black and anti-Indigenous racism and often works in concert with police services, especially as it relates to mental health crises.
 
@@ -949,4 +949,4 @@ Signatories:
 
 460. Lisette Christopherson, MD, PGY3 Family Medicine/Emergency Medicine Resident, University of Saskatchewan, Regina, SK
 
-461. Biruntha Sritharan, MD, Psychiatry Resident, University of Toronto, Hospital for Sick Children 
+461. Biruntha Sritharan, MD, Psychiatry Resident, University of Toronto, Hospital for Sick Children
