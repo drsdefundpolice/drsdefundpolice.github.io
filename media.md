@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Media
+title: Media & Events
 permalink: /media/
 tags: media
 ---
@@ -10,6 +10,8 @@ Doctors for Defunding Police started as an initiative by a few doctors concerned
 Our open letter was released on June 25, 2020. It was a public letter directed to Toronto City Council and Mayor John Tory.
 
 You can follow our work on Twitter at [@DrsDefundPolice](https://twitter.com/DrsDefundPolice).
+
+You can also follow our work on Facebook [You can also follow us on Facebook](https://www.facebook.com/DoctorsForDefundingPolice)
 
 ### Doctors for Defunding Police inaugural event:
 {% raw %}
