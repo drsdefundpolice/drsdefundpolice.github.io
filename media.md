@@ -5,7 +5,7 @@ permalink: /media/
 tags: media
 ---
 
-Doctors for Defunding Police started as a small initiative with a few doctors concerned about the toll anti-Black and anti-Indigenous policing was taking on the health of residents in the City of Toronto.
+Doctors for Defunding Police started as an initiative by a few doctors concerned about the toll anti-Black and anti-Indigenous policing was taking on the health of residents in the City of Toronto.
 
 Our open letter was released on June 25, 2020. It was a public letter directed to Toronto City Council and Mayor John Tory.
 
