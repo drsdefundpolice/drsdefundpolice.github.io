@@ -7,7 +7,7 @@ tags: about
 
 Doctors for Defunding Police started as a small initiative with a few doctors concerned about the toll anti-Black and anti-Indigenous policing was taking on the health of residents in the City of Toronto.
 
-You can follow our work on Twitter at ([@DrsDefundPolice](https://twitter.com/DrsDefundPolice)).
+You can follow our work on Twitter at [@DrsDefundPolice](https://twitter.com/DrsDefundPolice).
 
 List of founding MDs:
 
