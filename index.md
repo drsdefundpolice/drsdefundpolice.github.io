@@ -956,3 +956,5 @@ We must do better. It is a matter of life and death.
 462. Lauren Cook-Chaimowitz, MD, Emergency Medicine, McMaster University, Hamilton
 
 463. Christopher Yarnell, MD, Clinical Associate, Critical Care Medicine, University of Toronto, Sinai Health System
+
+464. Alisha Olsthoorn, MD, Obstetrics and Gynecology, University of Toronto 
