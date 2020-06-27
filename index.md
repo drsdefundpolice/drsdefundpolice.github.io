@@ -958,3 +958,95 @@ We must do better. It is a matter of life and death.
 463. Christopher Yarnell, MD, Clinical Associate, Critical Care Medicine, University of Toronto, Sinai Health System
 
 464. Alisha Olsthoorn, MD, Obstetrics and Gynecology, University of Toronto 
+
+465. Dennison Lai, MD, Family Medicine, Toronto 
+
+466. Kaitlin Baenziger, MD, Psychiatry Resident, University of Toronto
+
+467. Sumana Naidu, MD Candidate, University of Toronto
+
+468. Lauren Welsh, MD, CCFP-AM, Family Medicine, University of Toronto
+
+469. Abdullah Haroon, BHSc, MD Candidate, University of Ottawa 
+
+470. Justina Marianayagam, MD Candidate, Northern Ontario School of Medicine, Thunder Bay, ON
+
+471. Patricia Cavanagh, MD, FRCPC, Assistant Professor, Psychiatry, University of Toronto
+
+472. Pauline Pariser, MD, MASc, CCFP, FCFP, Associate Professor, Family Medicine, DFCM University of Toronto
+
+473. Sean McIntosh, MD, Family Medicine Resident, University of Toronto, Scarborough Health Network
+
+474. Yara Abou-Hamde, MD, Family Medicine Resident, University of Ottawa 
+
+475. Linda Zhang, MD, PGY1 Family Medicine Resident, University of Toronto
+
+476. Helena Kita, MD Candidate, University of Toronto 
+
+477. Rukia Swaleh, MD, Endocrinology Resident, University of Alberta, Edmonton 
+
+478. Serena Arora, MD, Family Medicine Resident, McMaster University, Hamilton 
+
+479. Kate Jolley, MD, CCFP, Family Medicine, Guelph
+
+480. Karen Weyman, MD, MEd, CCFP, FCFP, Associate Professor, Department of Family and Community Medicine, University of Toronto
+
+481. Bourke Tillmann, MD, PhD(c), Clinical Associate, Critical Care Medicine, Sunnybrook Health Sciences Centre, Toronto 
+
+482. Neville Burke, MBBS, DM, Clinical Fellow, Adult Critical Care, University of Toronto, Sunnybrook Health Sciences Complex
+
+483. Kikelomo Akinbobola, MD, Family Medicine, University of Ottawa
+
+484. Tamir Streiner, MD, Resident physician, Psychiatry, University of Toronto, UHN 
+
+485. Ushma Purohit, MD/MSc Candidate, University of Toronto, President-Elect of Ontario Medical Students Association
+
+486. Austyn Roseborough, MSc, MD, PhD Candidate, Western University, London 
+
+487. Archna Gupta, MD, CCFP, MPH, PhD(c), Family Physician
+
+488. Anjiya Sulaiman, MBBS, Toronto
+
+489. Nicole Hajjar, MD Candidate, Queen’s University 
+
+490. Matt Musselman, DO, MPH, Family Medicine Resident
+
+491. Marcia Zemans, MD, FRCPC, Assistant Professor, Psychiatry, University of Toronto
+
+492. Charles Yin, PhD, MD(c), MD Candidate, Western University, London
+
+493. Matthew Ta, MD Candidate, Psychiatry, University of Toronto
+
+494. Lorin J Young, MD, MSc, FRCPC, Psychiatrist, North Bay, ON
+
+495. Smriti Pradhan, MD, CCFP, Toronto
+
+496. Michael Taglione, MD, PGY2 Family Medicine Resident, University of Toronto
+
+497. Jessica Trac, B.Eng, MD Candidate, University of Toronto
+
+498. Melissa Galati, PhD Candidate, Medical Science, University of Toronto
+
+499. Dorothy Kuk, MD, FRCPC, Psychiatry, University of Toronto
+
+500. Geoffrey Sem, MD/MSc Candidate, University of Toronto
+
+501. Arianne Cohen, MD, Family Medicine Resident
+
+502. Claire Dyason, MD, CCFP(PC), Palliative Care, University of Ottawa
+
+503. Emma Preston, MD, PhD, CCFP, Physician, Clinical faculty, Family Medicine, UBC, Vancouver 
+
+504. Miriam Mottiar, MD, MHSc, FRCPC, Assistant Professor, Anesthesiology & Palliative Medicine, University of Ottawa
+
+505. Benjamin Baker, MD Candidate, University of Toronto
+
+
+
+
+
+ 
+
+
+
+
