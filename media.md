@@ -22,6 +22,6 @@ You can follow our work on Twitter at [@DrsDefundPolice](https://twitter.com/Drs
 
 - [The Toronto Star](https://www.thestar.com/opinion/contributors/2020/06/26/policing-is-a-public-health-crisis.html)
 - [Metro Morning](https://www.cbc.ca/listen/live-radio/1-39-metro-morning/clip/15784180-health-professionals-call-to-defund-police)
-- [As It Happens](https://www.cbc.ca/listen/live-radio/1-82-here-and-now-toronto/clip/15784281-why-a-group-of-toronto-doctors-are-putting-their-weight-behind-defunding-the-police)
+- [CBC As It Happens](https://www.cbc.ca/listen/live-radio/1-82-here-and-now-toronto/clip/15784281-why-a-group-of-toronto-doctors-are-putting-their-weight-behind-defunding-the-police)
 - [AM640](https://omny.fm/shows/am640-the-morning-show/group-of-50-doctors-in-toronto-call-for-defunding)
 - [Healthy Debate](https://healthydebate.ca/opinions/defund-the-police-resource-our-communites-a-call-for-structural-change)
