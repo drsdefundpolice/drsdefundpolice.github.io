@@ -14,9 +14,9 @@ List of founding MDs:
 - [Naheed Dosani](https://twitter.com/NaheedD)
 - [Andrew Boozary](https://twitter.com/drandrewb)
 - [Semir Bulle](https://twitter.com/SemirBulle)
-- Suzanne Shoush
+- [Suzanne Shoush](https://www.dfcm.utoronto.ca/news/first-indigenous-health-lead-part-department%E2%80%99s-response-truth-and-reconciliation-commission)
 - [Ritika Goel](https://twitter.com/RitikaGoelTO)
-- Michaela Beder
+- [Michaela Beder](https://twitter.com/Michaela416)
 - [Bahar Orang](https://twitter.com/baharoh)
 - [Saadia Sediqzadah](https://twitter.com/saadia_sediq)
 - [Nanky Rai](https://twitter.com/NankyRai)
