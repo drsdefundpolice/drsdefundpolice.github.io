@@ -11,7 +11,7 @@ Our open letter was released on June 25, 2020. It was a public letter directed t
 
 You can follow our work on Twitter at [@DrsDefundPolice](https://twitter.com/DrsDefundPolice).
 
-You can also follow our work on Facebook [You can also follow us on Facebook](https://www.facebook.com/DoctorsForDefundingPolice)
+You can also follow our work on [Facebook](https://www.facebook.com/DoctorsForDefundingPolice)
 
 ### Doctors for Defunding Police inaugural event:
 {% raw %}
