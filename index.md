@@ -952,3 +952,5 @@ We must do better. It is a matter of life and death.
 460. Lisette Christopherson, MD, PGY3 Family Medicine/Emergency Medicine Resident, University of Saskatchewan, Regina, SK
 
 461. Biruntha Sritharan, MD, Psychiatry Resident, University of Toronto, Hospital for Sick Children
+
+Lauren Cook-Chaimowitz, MD, Emergency Medicine, McMaster University, Hamilton
