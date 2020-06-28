@@ -1041,12 +1041,116 @@ We must do better. It is a matter of life and death.
 
 505. Benjamin Baker, MD Candidate, University of Toronto
 
+506. Sonia Igboanugo, MBDC MD Candidate, University of Toronto
 
+507. Gabriela Glattstein-Young, MD, MPH, CCFP, Clinical faculty, Family Medicine, UBC, Vancouver
 
+508. Daniel Rosenbaum, MD, Psychiatry Resident, University of Toronto 
 
+509. Sarah MacIsaac, MD, FRCPC, Respirology, Hamilton 
 
- 
+510. Céline Allen, MD, Internal Medicine Resident, University of Toronto 
 
+511. Kira Abelsohn, MD, MPH, CCFP, Family Medicine, Picton/Toronto
 
+512. Sheiry Dhillon, MD, DPhil, Psychiatry, University of Toronto 
 
+513. Ian Armstrong, MD, CCFP, AAHIVS, Family Medicine Physician
 
+514. Zainab Furqan, MD, PGY5 Psychiatry Resident, University of Toronto 
+
+515. Kevin Lam, MD, Family Medicine Resident, University of Toronto 
+
+516. Baldeep Paul, MD, CCFP, Kawartha Lakes
+
+517. Jaspreet Bajwa, MD, Radiology, University of Toronto 
+
+518. Sara Alavian, MD, Emergency Medicine, McMaster University, Hamilton 
+
+519. James Lai, MD, Family Medicine Resident, University of Toronto 
+
+520. Luke Swenson, MD, PhD, Psychiatry Resident, University of Toronto 
+
+521. Ethan Candler, BSc, MD Candidate, University of Alberta
+
+522. Kikelomo Akinbobola, MD, Family Medicine, University of Ottawa
+
+523. Anastasia Levinta, MD, Psychiatry, University of Toronto 
+
+524. Muhammad Muneeb Ahmed, MD Candidate, McMaster University, Hamilton 
+
+525. Raelene Foisy, Obstetrics & Gynecology Resident, Treaty 1
+
+526. Sandy Tecimer, MD, Family Medicine, Toronto 
+
+527. Laura McInnis, MD, CCFP, PGY3 Family/Emergency Medicine Resident, Queen's University, Kingston
+
+528. Thrmiga Sathiyamoorthy, MD Candidate, University of Toronto 
+
+529. Nazlie Faridi, MD, MSc, Assistant Professor, Psychiatry, McGill University, Montreal
+
+530. Jamileh Shaffaf, BHSc, MD, CCFP, Assistant Professor, Rural Family Medicine, Northern Ontario School of Medicine, Wawa
+
+531. Adrian Eoin Edgar, MD, CCFP, (AM)/MCFP, (AM), Medical Director Clinic 554, Family Medicine/Addiction Medicine, Clinical Assistant Professor of Family Medicine Memorial University, Assistant Professor of Family Medicine Dalhousie University, Fredericton, New Brunswick
+
+532. Kate Reeve, MHSc, MD, CCFP, Family Physician 
+
+533. Maleeha Ahmad Qazi, PhD, MD Candidate, University of Toronto 
+
+534. Seniyyeh Bashayan, MD, Psychiatry, University of Toronto 
+
+535. Michael Polischuk, MD, Family Medicine Resident, University of Toronto, Women’s College Hospital
+
+536. Ayla Raabis, MD Candidate, Queen's University, Kingston 
+
+537. Layli Sanaee, MD, MPH, FRCPC, Emergency Physician, University of Toronto
+
+538. Katerina Nikolitch, MD, Psychiatry, Ottawa
+
+539. Jessie M. Pettit, MD, IBCLC, Associate Professor, Family Medicine, University of Arizona, Tuscan, Arizona 
+
+540. Jacqueline Carverhill, MD, Family Medicine Resident, McMaster University, Hamilton
+
+541. Olga Kciuk, MD, MSc, Obstetrics & Gynecology Resident, University of Toronto 
+
+542. Andrea Levinson, MD, Assistant Professor, Psychiatry, University of Toronto, CAMH
+
+543. Chetana Kulkarni, MD, FRCPC, Assistant Professor, Psychiatry, University of Toronto 
+
+544. Rukia Swaleh, MD, Endocrinology Resident, University of Alberta, Edmonton 
+
+545. Natalie Raso, MPP, MD, Psychiatry Resident, McMaster University, Hamilton 
+
+546. Samantha Marriage, MBBS, CFPC(EM), Emergency Medicine, University of Toronto 
+
+547. Dr. Andrea Alvarez, MD, FRCPC, Psychiatry, McMaster University, Guelph 
+
+548. Eugenie Waters, MD, CCFP, Family Physician, General Practitioner in Oncology, Carson Clinic, The Ottawa Hospital, Ottawa
+
+549. Kelly Leung, MSW, MD Candidate, McMaster University, Hamilton 
+
+550. Jasmine Gandhi, MD, FRCPC, Assistant Professor, Psychiatry, University of Ottawa
+
+551. Elin Raymond, MD, CCFP, FRCS(C), Lecturer, Obstetrics & Gynecology, University of Toronto, Michael Garron Hospital
+
+552. Linda Kim, MD, FRCPC, Medical Genetics, University of Toronto 
+
+553. Stephanie Kay, MD, Pediatrics, Markham 
+
+554. Romesa Khalid, MD, CCFP, Family Medicine
+
+555. Mamoona Rafiq, MD, CCFP, Family Medicine, Toronto 
+
+556. Nicole Martin, MD, FRCPC, Clinical Instructor, Child and Adolescent Psychiatry, University of British Columbia, Victoria
+
+557. Sara Meunier, MD, PGY5 Psychiatry Resident, University of Calgary 
+
+558. Margaret MacSween, MD
+
+559. Anita Hickey, MD, FRCPC, Infant, Child, and Perinatal Psychiatrist, Toronto
+
+560. Prashanthi Baskaran, MD, Internal Medicine, University of Toronto 
+
+561. Drea Uzans, Psychiatry Resident, Memorial University, St. John's, Newfoundland
+
+562. Susan Edwards, MD, CCFP, Family Medicine, Toronto 
