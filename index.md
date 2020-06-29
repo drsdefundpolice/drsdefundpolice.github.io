@@ -1154,3 +1154,75 @@ We must do better. It is a matter of life and death.
 561. Drea Uzans, Psychiatry Resident, Memorial University, St. John's, Newfoundland
 
 562. Susan Edwards, MD, CCFP, Family Medicine, Toronto 
+
+563. Kat Butler, MD, Anesthesia Resident, University of Toronto 
+
+564. Parul Agarwal, MD, FRCPC, Lecturer, Psychiatry, Youthdale Treatment Centre, Toronto 
+
+565. Gayathri Naganathan, MD, MSc, General Surgery Resident, University of Toronto 
+
+566. Luke Swenson, MD, PhD, Psychiatry Resident, University of Toronto 
+
+567. Avital Klein, MD, Child Psychiatry, Toronto 
+
+568. Sharon Szmuilowicz, MD, Assistant Professor, Psychiatry, University of Toronto 
+
+569. Elisabeth Wright, MSc, MD, FRCPC, Psychiatrist, WCH, Toronto 
+
+570. Mahli Brindamour, MD, FRCPC, Assistant Professor, Pediatrics, University of Saskatchewan, Saskatoon 
+
+571. Lydia Schramm, MD, Family Medicine Resident, University of Toronto
+
+572. Karim Vellani, MD, CCFP, Lecturer, Family Medicine, University of Toronto, Unity Health Toronto, MediCall
+
+573. Jasmyn Cunningham, MSc, MD Candidate, Michael G. DeGroote School of Medicine, McMaster University
+
+574. Cynthia Chan, MD candidate, McMaster University, Hamilton
+
+575. Jamila Hersi, MD, CCFP, Family Medicine, Burlington
+
+576. Amy Freeman, MD Candidate, McMaster University, Hamilton 
+
+577. Shabana Jamani, MD Candidate, University of Ottawa, Ottawa/Niagra
+
+578. Alison Green, MD, MPH, PGY1 Family Medicine Resident, University of Toronto, Toronto Western Hospital
+
+579. Ahmed Belal, MD, PhD Candidate, Health Policy, McMaster University
+
+580. Aneil Manhas, MD Candidate, McMaster University, Hamilton 
+
+581. Jessica Thoma, MD, Assistant Professor, Psychiatry, University of Toronto
+
+582. Mara Waters, MD, Internal Medicine Resident, University of Toronto
+
+583. Chantal Morel, MD, FRCPC, FCCMG, Assistant Professor, Medical Genetics, University of Toronto
+
+584. Ike Okafor, Staff, University of Toronto 
+
+585. Jhanahan Sriranjan, MD Candidate, McMaster University, Hamilton 
+
+586. Olena (Helen) Genis, MD, Internal Medicine Resident, University of Toronto
+
+587. Tasnim Zaman, MSc, MD candidate, McMaster University, Hamilton 
+
+588. Kikelomo Akinbobola, MD, Family Medicine, University of Ottawa
+
+589. Sophia Lakatoo Hunt, MD, FRCPC, Emergency Psychiatry, Brampton
+
+590. Lakmini Pinnaduwage, MD, Family Medicine, University of Toronto 
+
+591. Jessica Braidek, MD, FRCPC, Psychiatrist  
+
+592. Jesse McLaren, MD, CCFP(EM), Assistant Professor, Emergency Medicine, University of Toronto 
+
+593. Inna Genkin, MD, CCFP, Family Physician, Enhanced Skills Women's Health Graduate, Toronto
+
+594. Manjot Sunner, MD Candidate, University of Toronto
+
+595. Vineet Nair, MD, CCFP, Adjunct Professor, Family Medicine, Schulich School of Medicine and Dentistry - Western University, London
+
+
+
+
+
+
