@@ -1221,8 +1221,22 @@ We must do better. It is a matter of life and death.
 
 595. Vineet Nair, MD, CCFP, Adjunct Professor, Family Medicine, Schulich School of Medicine and Dentistry - Western University, London
 
+596. Cara Elliott, MD Candidate, University of Toronto
 
+597. Francis Lao, MD Candidate, McMaster University, Hamilton 
 
+598. Kaveh G. Shojania, MD, Professor and Vice Chair, University of Toronto, Department of Medicine, Sunnybrook Health Sciences Centre
 
+599. Sofija Rans, MD, Family Medicine, McMaster University 
+
+600. Tavis Apramian, MD, PhD, Family Medicine Resident, McMaster University, Hamilton 
+
+601. Claire Moffatt, MD, CCFP, Family Medicine, Inuvik, NT
+
+602. Kikelomo Akinbobola, MD, Family Medicine, University of Ottawa
+
+603. Hanyan Zou, MSc, Medical Student, University of Toronto
+
+604. Abraham Jacob, MD, CCFP, Family Medicine, Corktown Medical Centre
 
 
