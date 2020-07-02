@@ -1239,4 +1239,11 @@ We must do better. It is a matter of life and death.
 
 604. Abraham Jacob, MD, CCFP, Family Medicine, Corktown Medical Centre
 
+605. Mandeep Cheema, MD, CCFP, Staff Physician, Family Medicine, Women's Health in Women's Hands CHC
+
+606. Monique Moller, M.Sc., M.D., CCFP (AM), Assistant Professor, Addiction Medicine, University of Toronto, Centre for Addiction and Mental Health, Women's College Hospital
+
+607. Arnold Aberman, MD, General Practice, CLSC Beauharnois, Québec
+
+608. Rukia Swaleh, MD, Resident, Endocrinology, University of Alberta, Edmonton
 
