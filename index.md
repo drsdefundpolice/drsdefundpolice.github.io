@@ -1247,3 +1247,23 @@ We must do better. It is a matter of life and death.
 
 608. Rukia Swaleh, MD, Resident, Endocrinology, University of Alberta, Edmonton
 
+609. Melissa Govindaraju, MD, Family Medicine Resident, McMaster University, Hamilton 
+
+610. Pier Bryden, MPhil, MD, FRCPC, Associate Professor, Psychiatry, Toronto 
+
+611. Alexandra Hildebrand, MD Candidate, McMaster University, Hamilton 
+
+612. Raed Hawa, MD, FRCPC, Professor, Psychiatry, University of Toronto
+
+613. Sujay Nagaraj, MD Candidate, University of Toronto 
+
+614. Sarah Colman, MD, FRCPC, Assistant professor, Geriatric psychiatry, University of Toronto 
+
+615. Daniel Voloshin, MD Candidate, McMaster University, Hamilton 
+
+616. Tosh Mizzau, MD, Addictions Medicine, University of British Columbia, Vancouver
+
+617. Tian Tian (Phoebe) Bao, MD, Psychiatry Resident, University of Toronto  
+
+
+
