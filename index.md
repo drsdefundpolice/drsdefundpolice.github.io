@@ -41,19 +41,19 @@ We must do better. It is a matter of life and death.
 
 4. Suzanne Stewart, PhD, C.Psych, Scientific Director, Waakibeness-Bryce Institute for Indigenous Health, University of Toronto
 
-5. Ritika Goel, MD MPH CCFP, Family Physician, Lecturer, Department of Family and Community Medicine, University of Toronto
+5. Ritika Goel, MD, MPH, CCFP, Family Physician, Lecturer, Department of Family and Community Medicine, University of Toronto
 
 6. Saadia Sediqzadah, MD, SM, PGY5 Psychiatry Resident, University of Toronto
 
-7. Bahar Orang, MD, PGY2 Psychiatry Resident, University of Toronto
+7. Bahar Orang, MA, MD, PGY2 Psychiatry Resident, University of Toronto
 
 8. Naheed Dosani, MSC, MD, CCFP(PC), Palliative Care Physician, Lecturer, Department of Family & Community Medicine, University of Toronto
 
 9. Andrew Boozary, MD, MPP, SM Family Physician, Assistant Professor, Institute of Health Policy, Management and Evaluation, University of Toronto
 
-10. Michaela Beder, MD FRCPC, Psychiatrist, Assistant Professor, University of Toronto
+10. Michaela Beder, MD, FRCPC, Psychiatrist, Assistant Professor, University of Toronto
 
-11. Nanky Rai, MD MPH CCFP, Staff Physician, Parkdale Queen West Community Health Centre, Lecturer, University of Toronto  
+11. Nanky Rai, MD, MPH, CCFP, Staff Physician, Parkdale Queen West Community Health Centre, Lecturer, University of Toronto  
 
 12. Lisa Richardson MD, MA, FRCPC General Internist, Associate Professor, Strategic Advisor in Indigenous Health, Faculty of Medicine, University of Toronto
 
@@ -67,15 +67,15 @@ We must do better. It is a matter of life and death.
 
 17. Shaza Fadel, PhD, MPH, Epidemiology, Dalla Lana School of Public Health, University of Toronto
 
-18. Shaun Mehta, MD GPLLM, Emergency Physician, St. Michael’s Hospital
+18. Shaun Mehta, MD, GPLLM, Emergency Physician, St. Michael’s Hospital
 
-19. Andrew Pinto, MD CCFP FRCPC MSc, Family Physician and Public Health and Preventive Medicine Specialist
+19. Andrew Pinto, MD, CCFP, FRCPC, MSc, Family Physician and Public Health and Preventive Medicine Specialist
 
 20. Seema Marwaha, MD, M.Ed, FRCPC, Internal Medicine, University of Toronto
 
 21. Sadhana Balakrishnan, MD, MBBS, FRCPC Pediatrician, McMaster University
 
-22. Victoria Pho, MD CCFP
+22. Victoria Pho, MD, CCFP
 
 23. Vanessa Redditt, MD CCFP, Family Physician, University of Toronto
 
@@ -91,15 +91,15 @@ We must do better. It is a matter of life and death.
 
 29. Claire Bodkin, MD
 
-30. Danyaal Raza, MD MPH CCFP, Family Physician, Assistant Professor, Department of Family & Community Medicine, University of Toronto
+30. Danyaal Raza, MD, MPH, CCFP, Family Physician, Assistant Professor, Department of Family & Community Medicine, University of Toronto
 
-31. Ahmed M. Bayoumi, MD MSc FRCPC, University of Toronto
+31. Ahmed M. Bayoumi, MD, MSc, FRCPC, University of Toronto
 
 32. Arjumand Siddiqi, ScD, Social Epidemiologist and Canada Research Chair in Population Health Equity, Dalla Lana School of Public Health, University of Toronto
 
 33. Gary Bloch, MD, CCFP, FCFP, Family Physician, Toronto, Associate Professor University of Toronto
 
-34. Edward Xie, MD MSc CCFP(EM), Emergency Physician, University Health Network
+34. Edward Xie, MD, MSc, CCFP(EM), Emergency Physician, University Health Network
 
 35. Samantha Green, MD, CCFP, Family Physician, University of Toronto
 
@@ -111,13 +111,13 @@ We must do better. It is a matter of life and death.
 
 39. Nisha Kansal, MD, Family Medicine Resident, McMaster University
 
-40. Malika Sharma, MD MEd FRCPC
+40. Malika Sharma, MD, MEd, FRCPC
 
 41. Hasan Sheikh MD MPA, Emergency and Addiction Medicine Physician
 
-42. Baijayanta Mukhopadhyay, MA MD CCFP DTM&H
+42. Baijayanta Mukhopadhyay, MA, MD, CCFP DTM&H
 
-43. Samir Shaheen-Hussain, MD CM, FRCPC (Pediatrics), Assistant Professor in the Department of Pediatrics, Faculty of Medicine, McGill University
+43. Samir Shaheen-Hussain, MD, CM, FRCPC (Pediatrics), Assistant Professor in the Department of Pediatrics, Faculty of Medicine, McGill University
 
 44. Monika Dutt, MD, Ally Centre of Cape Breton, Sydney, NS
 
@@ -129,7 +129,7 @@ We must do better. It is a matter of life and death.
 
 48. Jonathon Herriot, MD, CCFP, AAHIVS, Bsc, HIV Primary Care Physician, Toronto
 
-49. Nikki Bozinoff, MD CCFP (AM)
+49. Nikki Bozinoff, MD, CCFP (AM)
 
 50. OmiSoore Dryden, Associate Professor, James R Johnston Chair in Black Canadian Studies, Faculty Of Medicine, Dalhousie University
 
@@ -179,9 +179,9 @@ We must do better. It is a matter of life and death.
 
 73. Paula Willis, MD, Psychiatry Resident, University of Toronto
 
-74. Lucy Barker, MD FRCPC, Psychiatrist, Toronto
+74. Lucy Barker, MD, FRCPC, Psychiatrist, Toronto
 
-75. Paula Ravitz, MD FRCPC, Associate Professor, Psychiatry, University of Toronto
+75. Paula Ravitz, MD, FRCPC, Associate Professor, Psychiatry, University of Toronto
 
 76. Alexandra Zourikian, MD, Psychiatry Resident, University of Toronto
 
@@ -219,7 +219,7 @@ We must do better. It is a matter of life and death.
 
 93. Seana Adams, MD Candidate, University of Toronto
 
-94. Tharshika Thangarasa, PGY1 Psychiatry Resident, University of Toronto
+94. Tharshika Thangarasa, MD, PGY1 Psychiatry Resident, University of Toronto
 
 95. Farah Marani, MPH, MD, CCFP, Toronto
 
@@ -243,11 +243,11 @@ We must do better. It is a matter of life and death.
 
 105. Paul Benassi, MD, FRCPC, Assistant Professor, Psychiatry, University of Toronto, Center of Addiction and Mental Health (CAMH)
 
-106. Bushra Khan, PGY2 Psychiatry Resident, University of Toronto
+106. Bushra Khan, MD, PGY2 Psychiatry Resident, University of Toronto
 
-107. Noorin Walji, MBBChBAO, MSc, Emergency Medicine Resident, McMaster University, Hamilton
+107. Noorin Walji, MD, MBBChBAO, MSc, Emergency Medicine Resident, McMaster University, Hamilton
 
-108. Isabelle Dobronyi, MD CCFP, Family Medicine, Sunnybrook Health Sciences, Toronto
+108. Isabelle Dobronyi, MD, CCFP, Family Medicine, Sunnybrook Health Sciences, Toronto
 
 109. Vincent Tang, MD Candidate, University of Toronto
 
@@ -299,7 +299,7 @@ We must do better. It is a matter of life and death.
 
 134. Nassim Vahidi-Williams, BA, MPHi, Patient and Community Engagement Specialist, Community Health, Toronto
 
-135. Oluwatobi Olaiya, MD MSc Candidate, RN, McMaster University, Hamilton
+135. Oluwatobi Olaiya, MD, MSc Candidate, RN, McMaster University, Hamilton
 
 136. Ahmednur Ali, PhD candidate, Health Policy, McMaster University, Toronto
 
@@ -367,7 +367,7 @@ We must do better. It is a matter of life and death.
 
 168. Sinthuha Sivananth, MD, PGY1 Psychiatry Resident, University of Toronto
 
-169. Gagan Singh, Medical Student, University of Toronto
+169. Gagan Singh, MD Candidate, of Toronto
 
 170. Sunbal Ashraf, MD, Psychiatry, Wayne State University, Detroit, MI
 
@@ -377,7 +377,7 @@ We must do better. It is a matter of life and death.
 
 173. Camilla Parpia, MD/MSc Candidate, University of Toronto
 
-174. Casey Park, Casey Park, Critical Care Medicine PGY6, University Of Toronto
+174. Casey Park, MD, Critical Care Medicine PGY6, University Of Toronto
 
 175. Betel Yibrehu, MD, General Surgery Resident, University of Toronto
 
@@ -437,13 +437,13 @@ We must do better. It is a matter of life and death.
 
 203. Jessica Chan, MD, Family Medicine Resident, University of Toronto
 
-204. Neha Malhotra, MD (Candidate), MPhil, BHSc, University of Toronto
+204. Neha Malhotra, MD Candidate, MPhil, BHSc, University of Toronto
 
 205. Andrew Thomas, MD, MPH, Family Physician, Bowmanville, ON
 
 206. Paula Gosse, MD Candidate, University of Toronto
 
-207. Owen Dan Luo, BHSc (Hon), Medical Student, McGill University
+207. Owen Dan Luo, BHSc (Hon), MD Candidate, McGill University
 
 208. Amirah Momen, MD, Neurology Resident, University of Toronto
 
@@ -479,13 +479,13 @@ We must do better. It is a matter of life and death.
 
 225. Latif Murji, MD, CCFP, Lecturer, Family Medicine, University of Toronto
 
-226. Victoria Zhang, Family Medicine Resident, Toronto
+226. Victoria Zhang, MD, Family Medicine Resident, Toronto
 
 227. Nausheen Siddiqui, MD, FRCPC, MScCH, Staff Physician, Nephrology, Toronto East Health Network (Michael Garron Hospital)
 
 228. Christina Ma, MD, Internal Medicine Resident, McMaster University, Hamilton
 
-229. Julia Robson, MD Student, Queen's University, Kingston
+229. Julia Robson, MD Candidate, Queen's University, Kingston
 
 230. Reed Siemieniuk, MD, PhD, FRCPC, Internal Medicine, McMaster University, Hamilton
 
@@ -599,7 +599,7 @@ We must do better. It is a matter of life and death.
 
 285. Flavia Sendi-Mukasa, MD, CCFP, Family Medicine, Ottawa
 
-286. Michael Cameron, Senior Medical Student, University of Western Ontario School of Medicine, Windsor
+286. Michael Cameron, MD Candidate, University of Western Ontario School of Medicine, Windsor
 
 287. Naheed Ali, MD, FRCPC, Cardiology, Toronto
 
