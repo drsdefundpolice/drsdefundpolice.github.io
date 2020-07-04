@@ -1265,5 +1265,12 @@ We must do better. It is a matter of life and death.
 
 617. Tian Tian (Phoebe) Bao, MD, Psychiatry Resident, University of Toronto  
 
+618. Kaaren Heasman, MD, FRCPC, Toronto 
+
+618. Paul Galiwango, MD, FRCPC, Cardiology, University of Toronto 
+
+619. Funmi Oguntoyinbo, MD, MPH, FRCPC, Lecturer, Psychiatrist, Public health/Epidemiology, University of Toronto 
+
+620. Liam Cooper-Brown, MD Candidate, Mcgill University, Montreal
 
 
