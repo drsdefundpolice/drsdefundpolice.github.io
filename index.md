@@ -1273,4 +1273,6 @@ We must do better. It is a matter of life and death.
 
 620. Liam Cooper-Brown, MD Candidate, Mcgill University, Montreal
 
+621. Yujin Suk, MD/PhD Candidate, McMaster University, Hamilton
 
+622. Peter L. DeRoche, MD, FRCP(C), Director, Clinic For HIV-Related Concerns, Dept. of Psychiatry, Mt. SInai Hospital; Assistant Professor, Department of Psychiatry, University of Toronto, Psychiatry, Toronto 
