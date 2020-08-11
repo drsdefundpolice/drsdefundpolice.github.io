@@ -13,6 +13,8 @@ You can follow our work on Twitter at [@DrsDefundPolice](https://twitter.com/Drs
 
 You can also follow our work on [Facebook](https://www.facebook.com/DoctorsForDefundingPolice).
 
+You can join our mailing list [here](https://docs.google.com/forms/d/e/1FAIpQLSe-o_MTgKmGhzapEKSbk1dYc-LHvhWknGppCtmMzi1ahajpOA/viewform?vc=0&c=0&w=1&flr=0). 
+
 ### Doctors for Defunding Police inaugural event:
 {% raw %}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zPjYWzyoJ28" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
