@@ -7,7 +7,7 @@ tags: home
 
 # Policing is a public health crisis.
 
-As a group of concerned physicians working in Toronto, we have come together to stand in solidarity with calls from Black and Indigenous communities to address systemic anti-Black and anti-Indigenous racism, defunding the police, and reallocating funds to support response systems backed by public health research. There have been far too many Black and Indigenous people who have been the victims of police brutality in our communities. We recognize that our healthcare system is complicit in systemic anti-Black and anti-Indigenous racism and often works in concert with police services, especially as it relates to mental health crises.
+As a group of concerned physicians working in Toronto and beyond, we have come together to stand in solidarity with calls from Black and Indigenous communities to address systemic anti-Black and anti-Indigenous racism, defunding the police, and reallocating funds to support response systems backed by public health research. There have been far too many Black and Indigenous people who have been the victims of police brutality in our communities. We recognize that our healthcare system is complicit in systemic anti-Black and anti-Indigenous racism and often works in concert with police services, especially as it relates to mental health crises.
 
 As members of the medical community, we are gravely concerned about several recent cases of police brutality. These include the stories and lives of Regis Korchinski-Paquet, Ian Pryce, Andrew Loku, amongst many others. These deadly tragedies highlight concerns around police response to individuals in distress or experiencing mental health crises and the use of lethal force against Black and Indigenous people, including those from communities facing severe social and material deprivation due to structural violence including poverty and marginalization. When people are in crisis, we know that what they need is care, not confrontation with an armed officer. We know that the threat of violence exacerbates distress. Black Torontonians are 20 times more likely to be shot by police than white residents, according to the Ontario Human Rights Commission. We know that care should take the form of de-escalation, crisis counseling, and connection to resources. We know that no amount of reform will result in police officers having expertise in any of these areas.
 
@@ -41,19 +41,19 @@ We must do better. It is a matter of life and death.
 
 4. Suzanne Stewart, PhD, C.Psych, Scientific Director, Waakibeness-Bryce Institute for Indigenous Health, University of Toronto
 
-5. Ritika Goel, MD MPH CCFP, Family Physician, Lecturer, Department of Family and Community Medicine, University of Toronto
+5. Ritika Goel, MD, MPH, CCFP, Family Physician, Lecturer, Department of Family and Community Medicine, University of Toronto
 
 6. Saadia Sediqzadah, MD, SM, PGY5 Psychiatry Resident, University of Toronto
 
-7. Bahar Orang, MD, PGY2 Psychiatry Resident, University of Toronto
+7. Bahar Orang, MA, MD, PGY2 Psychiatry Resident, University of Toronto
 
 8. Naheed Dosani, MSC, MD, CCFP(PC), Palliative Care Physician, Lecturer, Department of Family & Community Medicine, University of Toronto
 
 9. Andrew Boozary, MD, MPP, SM Family Physician, Assistant Professor, Institute of Health Policy, Management and Evaluation, University of Toronto
 
-10. Michaela Beder, MD FRCPC, Psychiatrist, Assistant Professor, University of Toronto
+10. Michaela Beder, MD, FRCPC, Psychiatrist, Assistant Professor, University of Toronto
 
-11. Nanky Rai, MD MPH CCFP, Staff Physician, Parkdale Queen West Community Health Centre, Lecturer, University of Toronto  
+11. Nanky Rai, MD, MPH, CCFP, Staff Physician, Parkdale Queen West Community Health Centre, Lecturer, University of Toronto  
 
 12. Lisa Richardson MD, MA, FRCPC General Internist, Associate Professor, Strategic Advisor in Indigenous Health, Faculty of Medicine, University of Toronto
 
@@ -67,15 +67,15 @@ We must do better. It is a matter of life and death.
 
 17. Shaza Fadel, PhD, MPH, Epidemiology, Dalla Lana School of Public Health, University of Toronto
 
-18. Shaun Mehta, MD GPLLM, Emergency Physician, St. Michael’s Hospital
+18. Shaun Mehta, MD, GPLLM, Emergency Physician, St. Michael’s Hospital
 
-19. Andrew Pinto, MD CCFP FRCPC MSc, Family Physician and Public Health and Preventive Medicine Specialist
+19. Andrew Pinto, MD, CCFP, FRCPC, MSc, Family Physician and Public Health and Preventive Medicine Specialist
 
 20. Seema Marwaha, MD, M.Ed, FRCPC, Internal Medicine, University of Toronto
 
 21. Sadhana Balakrishnan, MD, MBBS, FRCPC Pediatrician, McMaster University
 
-22. Victoria Pho, MD CCFP
+22. Victoria Pho, MD, CCFP
 
 23. Vanessa Redditt, MD CCFP, Family Physician, University of Toronto
 
@@ -91,15 +91,15 @@ We must do better. It is a matter of life and death.
 
 29. Claire Bodkin, MD
 
-30. Danyaal Raza, MD MPH CCFP, Family Physician, Assistant Professor, Department of Family & Community Medicine, University of Toronto
+30. Danyaal Raza, MD, MPH, CCFP, Family Physician, Assistant Professor, Department of Family & Community Medicine, University of Toronto
 
-31. Ahmed M. Bayoumi, MD MSc FRCPC, University of Toronto
+31. Ahmed M. Bayoumi, MD, MSc, FRCPC, University of Toronto
 
 32. Arjumand Siddiqi, ScD, Social Epidemiologist and Canada Research Chair in Population Health Equity, Dalla Lana School of Public Health, University of Toronto
 
 33. Gary Bloch, MD, CCFP, FCFP, Family Physician, Toronto, Associate Professor University of Toronto
 
-34. Edward Xie, MD MSc CCFP(EM), Emergency Physician, University Health Network
+34. Edward Xie, MD, MSc, CCFP(EM), Emergency Physician, University Health Network
 
 35. Samantha Green, MD, CCFP, Family Physician, University of Toronto
 
@@ -111,13 +111,13 @@ We must do better. It is a matter of life and death.
 
 39. Nisha Kansal, MD, Family Medicine Resident, McMaster University
 
-40. Malika Sharma, MD MEd FRCPC
+40. Malika Sharma, MD, MEd, FRCPC
 
 41. Hasan Sheikh MD MPA, Emergency and Addiction Medicine Physician
 
-42. Baijayanta Mukhopadhyay, MA MD CCFP DTM&H
+42. Baijayanta Mukhopadhyay, MA, MD, CCFP DTM&H
 
-43. Samir Shaheen-Hussain, MD CM, FRCPC (Pediatrics), Assistant Professor in the Department of Pediatrics, Faculty of Medicine, McGill University
+43. Samir Shaheen-Hussain, MD, CM, FRCPC (Pediatrics), Assistant Professor in the Department of Pediatrics, Faculty of Medicine, McGill University
 
 44. Monika Dutt, MD, Ally Centre of Cape Breton, Sydney, NS
 
@@ -129,7 +129,7 @@ We must do better. It is a matter of life and death.
 
 48. Jonathon Herriot, MD, CCFP, AAHIVS, Bsc, HIV Primary Care Physician, Toronto
 
-49. Nikki Bozinoff, MD CCFP (AM)
+49. Nikki Bozinoff, MD, CCFP (AM)
 
 50. OmiSoore Dryden, Associate Professor, James R Johnston Chair in Black Canadian Studies, Faculty Of Medicine, Dalhousie University
 
@@ -179,9 +179,9 @@ We must do better. It is a matter of life and death.
 
 73. Paula Willis, MD, Psychiatry Resident, University of Toronto
 
-74. Lucy Barker, MD FRCPC, Psychiatrist, Toronto
+74. Lucy Barker, MD, FRCPC, Psychiatrist, Toronto
 
-75. Paula Ravitz, MD FRCPC, Associate Professor, Psychiatry, University of Toronto
+75. Paula Ravitz, MD, FRCPC, Associate Professor, Psychiatry, University of Toronto
 
 76. Alexandra Zourikian, MD, Psychiatry Resident, University of Toronto
 
@@ -219,7 +219,7 @@ We must do better. It is a matter of life and death.
 
 93. Seana Adams, MD Candidate, University of Toronto
 
-94. Tharshika Thangarasa, PGY1 Psychiatry Resident, University of Toronto
+94. Tharshika Thangarasa, MD, PGY1 Psychiatry Resident, University of Toronto
 
 95. Farah Marani, MPH, MD, CCFP, Toronto
 
@@ -243,11 +243,11 @@ We must do better. It is a matter of life and death.
 
 105. Paul Benassi, MD, FRCPC, Assistant Professor, Psychiatry, University of Toronto, Center of Addiction and Mental Health (CAMH)
 
-106. Bushra Khan, PGY2 Psychiatry Resident, University of Toronto
+106. Bushra Khan, MD, PGY2 Psychiatry Resident, University of Toronto
 
-107. Noorin Walji, MBBChBAO, MSc, Emergency Medicine Resident, McMaster University, Hamilton
+107. Noorin Walji, MD, MBBChBAO, MSc, Emergency Medicine Resident, McMaster University, Hamilton
 
-108. Isabelle Dobronyi, MD CCFP, Family Medicine, Sunnybrook Health Sciences, Toronto
+108. Isabelle Dobronyi, MD, CCFP, Family Medicine, Sunnybrook Health Sciences, Toronto
 
 109. Vincent Tang, MD Candidate, University of Toronto
 
@@ -299,7 +299,7 @@ We must do better. It is a matter of life and death.
 
 134. Nassim Vahidi-Williams, BA, MPHi, Patient and Community Engagement Specialist, Community Health, Toronto
 
-135. Oluwatobi Olaiya, MD MSc Candidate, RN, McMaster University, Hamilton
+135. Oluwatobi Olaiya, MD, MSc Candidate, RN, McMaster University, Hamilton
 
 136. Ahmednur Ali, PhD candidate, Health Policy, McMaster University, Toronto
 
@@ -367,7 +367,7 @@ We must do better. It is a matter of life and death.
 
 168. Sinthuha Sivananth, MD, PGY1 Psychiatry Resident, University of Toronto
 
-169. Gagan Singh, Medical Student, University of Toronto
+169. Gagan Singh, MD Candidate, of Toronto
 
 170. Sunbal Ashraf, MD, Psychiatry, Wayne State University, Detroit, MI
 
@@ -377,7 +377,7 @@ We must do better. It is a matter of life and death.
 
 173. Camilla Parpia, MD/MSc Candidate, University of Toronto
 
-174. Casey Park, Casey Park, Critical Care Medicine PGY6, University Of Toronto
+174. Casey Park, MD, Critical Care Medicine PGY6, University Of Toronto
 
 175. Betel Yibrehu, MD, General Surgery Resident, University of Toronto
 
@@ -437,13 +437,13 @@ We must do better. It is a matter of life and death.
 
 203. Jessica Chan, MD, Family Medicine Resident, University of Toronto
 
-204. Neha Malhotra, MD (Candidate), MPhil, BHSc, University of Toronto
+204. Neha Malhotra, MD Candidate, MPhil, BHSc, University of Toronto
 
 205. Andrew Thomas, MD, MPH, Family Physician, Bowmanville, ON
 
 206. Paula Gosse, MD Candidate, University of Toronto
 
-207. Owen Dan Luo, BHSc (Hon), Medical Student, McGill University
+207. Owen Dan Luo, BHSc (Hon), MD Candidate, McGill University
 
 208. Amirah Momen, MD, Neurology Resident, University of Toronto
 
@@ -479,13 +479,13 @@ We must do better. It is a matter of life and death.
 
 225. Latif Murji, MD, CCFP, Lecturer, Family Medicine, University of Toronto
 
-226. Victoria Zhang, Family Medicine Resident, Toronto
+226. Victoria Zhang, MD, Family Medicine Resident, Toronto
 
 227. Nausheen Siddiqui, MD, FRCPC, MScCH, Staff Physician, Nephrology, Toronto East Health Network (Michael Garron Hospital)
 
 228. Christina Ma, MD, Internal Medicine Resident, McMaster University, Hamilton
 
-229. Julia Robson, MD Student, Queen's University, Kingston
+229. Julia Robson, MD Candidate, Queen's University, Kingston
 
 230. Reed Siemieniuk, MD, PhD, FRCPC, Internal Medicine, McMaster University, Hamilton
 
@@ -599,7 +599,7 @@ We must do better. It is a matter of life and death.
 
 285. Flavia Sendi-Mukasa, MD, CCFP, Family Medicine, Ottawa
 
-286. Michael Cameron, Senior Medical Student, University of Western Ontario School of Medicine, Windsor
+286. Michael Cameron, MD Candidate, University of Western Ontario School of Medicine, Windsor
 
 287. Naheed Ali, MD, FRCPC, Cardiology, Toronto
 
@@ -958,3 +958,321 @@ We must do better. It is a matter of life and death.
 463. Christopher Yarnell, MD, Clinical Associate, Critical Care Medicine, University of Toronto, Sinai Health System
 
 464. Alisha Olsthoorn, MD, Obstetrics and Gynecology, University of Toronto 
+
+465. Dennison Lai, MD, Family Medicine, Toronto 
+
+466. Kaitlin Baenziger, MD, Psychiatry Resident, University of Toronto
+
+467. Sumana Naidu, MD Candidate, University of Toronto
+
+468. Lauren Welsh, MD, CCFP-AM, Family Medicine, University of Toronto
+
+469. Abdullah Haroon, BHSc, MD Candidate, University of Ottawa 
+
+470. Justina Marianayagam, MD Candidate, Northern Ontario School of Medicine, Thunder Bay, ON
+
+471. Patricia Cavanagh, MD, FRCPC, Assistant Professor, Psychiatry, University of Toronto
+
+472. Pauline Pariser, MD, MASc, CCFP, FCFP, Associate Professor, Family Medicine, DFCM University of Toronto
+
+473. Sean McIntosh, MD, Family Medicine Resident, University of Toronto, Scarborough Health Network
+
+474. Yara Abou-Hamde, MD, Family Medicine Resident, University of Ottawa 
+
+475. Linda Zhang, MD, PGY1 Family Medicine Resident, University of Toronto
+
+476. Helena Kita, MD Candidate, University of Toronto 
+
+477. Rukia Swaleh, MD, Endocrinology Resident, University of Alberta, Edmonton 
+
+478. Serena Arora, MD, Family Medicine Resident, McMaster University, Hamilton 
+
+479. Kate Jolley, MD, CCFP, Family Medicine, Guelph
+
+480. Karen Weyman, MD, MEd, CCFP, FCFP, Associate Professor, Department of Family and Community Medicine, University of Toronto
+
+481. Bourke Tillmann, MD, PhD(c), Clinical Associate, Critical Care Medicine, Sunnybrook Health Sciences Centre, Toronto 
+
+482. Neville Burke, MBBS, DM, Clinical Fellow, Adult Critical Care, University of Toronto, Sunnybrook Health Sciences Complex
+
+483. Kikelomo Akinbobola, MD, Family Medicine, University of Ottawa
+
+484. Tamir Streiner, MD, Resident physician, Psychiatry, University of Toronto, UHN 
+
+485. Ushma Purohit, MD/MSc Candidate, University of Toronto, President-Elect of Ontario Medical Students Association
+
+486. Austyn Roseborough, MSc, MD, PhD Candidate, Western University, London 
+
+487. Archna Gupta, MD, CCFP, MPH, PhD(c), Family Physician
+
+488. Anjiya Sulaiman, MBBS, Toronto
+
+489. Nicole Hajjar, MD Candidate, Queen’s University 
+
+490. Matt Musselman, DO, MPH, Family Medicine Resident
+
+491. Marcia Zemans, MD, FRCPC, Assistant Professor, Psychiatry, University of Toronto
+
+492. Charles Yin, PhD, MD(c), MD Candidate, Western University, London
+
+493. Matthew Ta, MD Candidate, Psychiatry, University of Toronto
+
+494. Lorin J Young, MD, MSc, FRCPC, Psychiatrist, North Bay, ON
+
+495. Smriti Pradhan, MD, CCFP, Toronto
+
+496. Michael Taglione, MD, PGY2 Family Medicine Resident, University of Toronto
+
+497. Jessica Trac, B.Eng, MD Candidate, University of Toronto
+
+498. Melissa Galati, PhD Candidate, Medical Science, University of Toronto
+
+499. Dorothy Kuk, MD, FRCPC, Psychiatry, University of Toronto
+
+500. Geoffrey Sem, MD/MSc Candidate, University of Toronto
+
+501. Arianne Cohen, MD, Family Medicine Resident
+
+502. Claire Dyason, MD, CCFP(PC), Palliative Care, University of Ottawa
+
+503. Emma Preston, MD, PhD, CCFP, Physician, Clinical faculty, Family Medicine, UBC, Vancouver 
+
+504. Miriam Mottiar, MD, MHSc, FRCPC, Assistant Professor, Anesthesiology & Palliative Medicine, University of Ottawa
+
+505. Benjamin Baker, MD Candidate, University of Toronto
+
+506. Sonia Igboanugo, MBDC MD Candidate, University of Toronto
+
+507. Gabriela Glattstein-Young, MD, MPH, CCFP, Clinical faculty, Family Medicine, UBC, Vancouver
+
+508. Daniel Rosenbaum, MD, Psychiatry Resident, University of Toronto 
+
+509. Sarah MacIsaac, MD, FRCPC, Respirology, Hamilton 
+
+510. Céline Allen, MD, Internal Medicine Resident, University of Toronto 
+
+511. Kira Abelsohn, MD, MPH, CCFP, Family Medicine, Picton/Toronto
+
+512. Sheiry Dhillon, MD, DPhil, Psychiatry, University of Toronto 
+
+513. Ian Armstrong, MD, CCFP, AAHIVS, Family Medicine Physician
+
+514. Zainab Furqan, MD, PGY5 Psychiatry Resident, University of Toronto 
+
+515. Kevin Lam, MD, Family Medicine Resident, University of Toronto 
+
+516. Baldeep Paul, MD, CCFP, Kawartha Lakes
+
+517. Jaspreet Bajwa, MD, Radiology, University of Toronto 
+
+518. Sara Alavian, MD, Emergency Medicine, McMaster University, Hamilton 
+
+519. James Lai, MD, Family Medicine Resident, University of Toronto 
+
+520. Luke Swenson, MD, PhD, Psychiatry Resident, University of Toronto 
+
+521. Ethan Candler, BSc, MD Candidate, University of Alberta
+
+522. Kikelomo Akinbobola, MD, Family Medicine, University of Ottawa
+
+523. Anastasia Levinta, MD, Psychiatry, University of Toronto 
+
+524. Muhammad Muneeb Ahmed, MD Candidate, McMaster University, Hamilton 
+
+525. Raelene Foisy, Obstetrics & Gynecology Resident, Treaty 1
+
+526. Sandy Tecimer, MD, Family Medicine, Toronto 
+
+527. Laura McInnis, MD, CCFP, PGY3 Family/Emergency Medicine Resident, Queen's University, Kingston
+
+528. Thrmiga Sathiyamoorthy, MD Candidate, University of Toronto 
+
+529. Nazlie Faridi, MD, MSc, Assistant Professor, Psychiatry, McGill University, Montreal
+
+530. Jamileh Shaffaf, BHSc, MD, CCFP, Assistant Professor, Rural Family Medicine, Northern Ontario School of Medicine, Wawa
+
+531. Adrian Eoin Edgar, MD, CCFP, (AM)/MCFP, (AM), Medical Director Clinic 554, Family Medicine/Addiction Medicine, Clinical Assistant Professor of Family Medicine Memorial University, Assistant Professor of Family Medicine Dalhousie University, Fredericton, New Brunswick
+
+532. Kate Reeve, MHSc, MD, CCFP, Family Physician 
+
+533. Maleeha Ahmad Qazi, PhD, MD Candidate, University of Toronto 
+
+534. Seniyyeh Bashayan, MD, Psychiatry, University of Toronto 
+
+535. Michael Polischuk, MD, Family Medicine Resident, University of Toronto, Women’s College Hospital
+
+536. Ayla Raabis, MD Candidate, Queen's University, Kingston 
+
+537. Layli Sanaee, MD, MPH, FRCPC, Emergency Physician, University of Toronto
+
+538. Katerina Nikolitch, MD, Psychiatry, Ottawa
+
+539. Jessie M. Pettit, MD, IBCLC, Associate Professor, Family Medicine, University of Arizona, Tuscan, Arizona 
+
+540. Jacqueline Carverhill, MD, Family Medicine Resident, McMaster University, Hamilton
+
+541. Olga Kciuk, MD, MSc, Obstetrics & Gynecology Resident, University of Toronto 
+
+542. Andrea Levinson, MD, Assistant Professor, Psychiatry, University of Toronto, CAMH
+
+543. Chetana Kulkarni, MD, FRCPC, Assistant Professor, Psychiatry, University of Toronto 
+
+544. Rukia Swaleh, MD, Endocrinology Resident, University of Alberta, Edmonton 
+
+545. Natalie Raso, MPP, MD, Psychiatry Resident, McMaster University, Hamilton 
+
+546. Samantha Marriage, MBBS, CFPC(EM), Emergency Medicine, University of Toronto 
+
+547. Dr. Andrea Alvarez, MD, FRCPC, Psychiatry, McMaster University, Guelph 
+
+548. Eugenie Waters, MD, CCFP, Family Physician, General Practitioner in Oncology, Carson Clinic, The Ottawa Hospital, Ottawa
+
+549. Kelly Leung, MSW, MD Candidate, McMaster University, Hamilton 
+
+550. Jasmine Gandhi, MD, FRCPC, Assistant Professor, Psychiatry, University of Ottawa
+
+551. Elin Raymond, MD, CCFP, FRCS(C), Lecturer, Obstetrics & Gynecology, University of Toronto, Michael Garron Hospital
+
+552. Linda Kim, MD, FRCPC, Medical Genetics, University of Toronto 
+
+553. Stephanie Kay, MD, Pediatrics, Markham 
+
+554. Romesa Khalid, MD, CCFP, Family Medicine
+
+555. Mamoona Rafiq, MD, CCFP, Family Medicine, Toronto 
+
+556. Nicole Martin, MD, FRCPC, Clinical Instructor, Child and Adolescent Psychiatry, University of British Columbia, Victoria
+
+557. Sara Meunier, MD, PGY5 Psychiatry Resident, University of Calgary 
+
+558. Margaret MacSween, MD
+
+559. Anita Hickey, MD, FRCPC, Infant, Child, and Perinatal Psychiatrist, Toronto
+
+560. Prashanthi Baskaran, MD, Internal Medicine, University of Toronto 
+
+561. Drea Uzans, Psychiatry Resident, Memorial University, St. John's, Newfoundland
+
+562. Susan Edwards, MD, CCFP, Family Medicine, Toronto 
+
+563. Kat Butler, MD, Anesthesia Resident, University of Toronto 
+
+564. Parul Agarwal, MD, FRCPC, Lecturer, Psychiatry, Youthdale Treatment Centre, Toronto 
+
+565. Gayathri Naganathan, MD, MSc, General Surgery Resident, University of Toronto 
+
+566. Luke Swenson, MD, PhD, Psychiatry Resident, University of Toronto 
+
+567. Avital Klein, MD, Child Psychiatry, Toronto 
+
+568. Sharon Szmuilowicz, MD, Assistant Professor, Psychiatry, University of Toronto 
+
+569. Elisabeth Wright, MSc, MD, FRCPC, Psychiatrist, WCH, Toronto 
+
+570. Mahli Brindamour, MD, FRCPC, Assistant Professor, Pediatrics, University of Saskatchewan, Saskatoon 
+
+571. Lydia Schramm, MD, Family Medicine Resident, University of Toronto
+
+572. Karim Vellani, MD, CCFP, Lecturer, Family Medicine, University of Toronto, Unity Health Toronto, MediCall
+
+573. Jasmyn Cunningham, MSc, MD Candidate, Michael G. DeGroote School of Medicine, McMaster University
+
+574. Cynthia Chan, MD candidate, McMaster University, Hamilton
+
+575. Jamila Hersi, MD, CCFP, Family Medicine, Burlington
+
+576. Amy Freeman, MD Candidate, McMaster University, Hamilton 
+
+577. Shabana Jamani, MD Candidate, University of Ottawa, Ottawa/Niagra
+
+578. Alison Green, MD, MPH, PGY1 Family Medicine Resident, University of Toronto, Toronto Western Hospital
+
+579. Ahmed Belal, MD, PhD Candidate, Health Policy, McMaster University
+
+580. Aneil Manhas, MD Candidate, McMaster University, Hamilton 
+
+581. Jessica Thoma, MD, Assistant Professor, Psychiatry, University of Toronto
+
+582. Mara Waters, MD, Internal Medicine Resident, University of Toronto
+
+583. Chantal Morel, MD, FRCPC, FCCMG, Assistant Professor, Medical Genetics, University of Toronto
+
+584. Ike Okafor, Staff, University of Toronto 
+
+585. Jhanahan Sriranjan, MD Candidate, McMaster University, Hamilton 
+
+586. Olena (Helen) Genis, MD, Internal Medicine Resident, University of Toronto
+
+587. Tasnim Zaman, MSc, MD candidate, McMaster University, Hamilton 
+
+588. Kikelomo Akinbobola, MD, Family Medicine, University of Ottawa
+
+589. Sophia Lakatoo Hunt, MD, FRCPC, Emergency Psychiatry, Brampton
+
+590. Lakmini Pinnaduwage, MD, Family Medicine, University of Toronto 
+
+591. Jessica Braidek, MD, FRCPC, Psychiatrist  
+
+592. Jesse McLaren, MD, CCFP(EM), Assistant Professor, Emergency Medicine, University of Toronto 
+
+593. Inna Genkin, MD, CCFP, Family Physician, Enhanced Skills Women's Health Graduate, Toronto
+
+594. Manjot Sunner, MD Candidate, University of Toronto
+
+595. Vineet Nair, MD, CCFP, Adjunct Professor, Family Medicine, Schulich School of Medicine and Dentistry - Western University, London
+
+596. Cara Elliott, MD Candidate, University of Toronto
+
+597. Francis Lao, MD Candidate, McMaster University, Hamilton 
+
+598. Kaveh G. Shojania, MD, Professor and Vice Chair, University of Toronto, Department of Medicine, Sunnybrook Health Sciences Centre
+
+599. Sofija Rans, MD, Family Medicine, McMaster University 
+
+600. Tavis Apramian, MD, PhD, Family Medicine Resident, McMaster University, Hamilton 
+
+601. Claire Moffatt, MD, CCFP, Family Medicine, Inuvik, NT
+
+602. Kikelomo Akinbobola, MD, Family Medicine, University of Ottawa
+
+603. Hanyan Zou, MSc, Medical Student, University of Toronto
+
+604. Abraham Jacob, MD, CCFP, Family Medicine, Corktown Medical Centre
+
+605. Mandeep Cheema, MD, CCFP, Staff Physician, Family Medicine, Women's Health in Women's Hands CHC
+
+606. Monique Moller, M.Sc., M.D., CCFP (AM), Assistant Professor, Addiction Medicine, University of Toronto, Centre for Addiction and Mental Health, Women's College Hospital
+
+607. Arnold Aberman, MD, General Practice, CLSC Beauharnois, Québec
+
+608. Rukia Swaleh, MD, Resident, Endocrinology, University of Alberta, Edmonton
+
+609. Melissa Govindaraju, MD, Family Medicine Resident, McMaster University, Hamilton 
+
+610. Pier Bryden, MPhil, MD, FRCPC, Associate Professor, Psychiatry, Toronto 
+
+611. Alexandra Hildebrand, MD Candidate, McMaster University, Hamilton 
+
+612. Raed Hawa, MD, FRCPC, Professor, Psychiatry, University of Toronto
+
+613. Sujay Nagaraj, MD Candidate, University of Toronto 
+
+614. Sarah Colman, MD, FRCPC, Assistant professor, Geriatric psychiatry, University of Toronto 
+
+615. Daniel Voloshin, MD Candidate, McMaster University, Hamilton 
+
+616. Tosh Mizzau, MD, Addictions Medicine, University of British Columbia, Vancouver
+
+617. Tian Tian (Phoebe) Bao, MD, Psychiatry Resident, University of Toronto  
+
+618. Kaaren Heasman, MD, FRCPC, Toronto 
+
+618. Paul Galiwango, MD, FRCPC, Cardiology, University of Toronto 
+
+619. Funmi Oguntoyinbo, MD, MPH, FRCPC, Lecturer, Psychiatrist, Public health/Epidemiology, University of Toronto 
+
+620. Liam Cooper-Brown, MD Candidate, Mcgill University, Montreal
+
+621. Yujin Suk, MD/PhD Candidate, McMaster University, Hamilton
+
+622. Peter L. DeRoche, MD, FRCP(C), Director, Clinic For HIV-Related Concerns, Dept. of Psychiatry, Mt. SInai Hospital; Assistant Professor, Department of Psychiatry, University of Toronto, Psychiatry, Toronto 
