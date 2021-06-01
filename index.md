@@ -783,7 +783,7 @@ We must do better. It is a matter of life and death.
 
 376. Angela Wong, MD, CCFP, Family Medicine, South Riverdale Community Health Centre, Toronto
 
-377. Ayomikun Olaloku, B.Sc. (Hons), MD Candidate, University of Toronto
+377. Yujin Suk, MD/PhD Candidate, McMaster University, Hamilton
 
 378. Lwam Ghebrehariat, JD, MD, Psychiatry Resident, University of Toronto
 
