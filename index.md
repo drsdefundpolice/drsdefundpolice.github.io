@@ -869,7 +869,7 @@ We must do better. It is a matter of life and death.
 
 419. Alix Murphy, MD, MASc, Obstetrics & Gynaecology Resident, University of Toronto
 
-420. Pedram Mossallanejad, MDCM, Emergency Medicine, Toronto
+
 
 421. Valerie Steckle, MSc Global Health, MD Candidate, Western University
 
